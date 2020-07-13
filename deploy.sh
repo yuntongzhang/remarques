@@ -5,7 +5,7 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 
-echo -e "\033[0;32mBuilding the new site...\033[0m"
+echo -e "\n\033[0;32mBuilding the new site...\033[0m"
 hugo -D
 
 echo -e "\033[0;32mCommiting to the static files folder...\033[0m"
