@@ -13,7 +13,7 @@ Hope you enjoy the content as well!
 - {{< internal "Dynamic Linking and LD_PRELOAD" "low-level-programming/Dynamic-Linking-LD_PRELOAD.md" >}}
 - {{< internal "Memory-mapped File and Page Cache" "low-level-programming/Memory-Mapped-File-Page-Cache.md" >}}
 - {{< internal "Debugging Tips" "low-level-programming/Debugging-Tips.md" >}}
-- {{< internal "Intel x86 Opcode Table" "low-level-programming/Intel-x86-64.md" >}}
+- {{< internal "Intel x86-64" "low-level-programming/Intel-x86-64.md" >}}
 - {{< internal "ELF Files on Linux" "low-level-programming/ELF-File-on-Linux.md" >}}
 - {{< internal "What happens before `main()`?" "low-level-programming/What-Happens-before-Main.md" >}}
 

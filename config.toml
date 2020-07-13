@@ -1,6 +1,7 @@
 baseURL = "https://www.yuntongzhang.com/"
 theme = "hugo_theme_adam_eve"
 DefaultContentLanguage = "en"
+googleAnalytics = "UA-124041394-2"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Languages]
