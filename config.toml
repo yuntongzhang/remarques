@@ -1,4 +1,4 @@
-baseURL = "https://example.org"
+baseURL = "https://www.yuntongzhang.com/"
 theme = "hugo_theme_adam_eve"
 DefaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
