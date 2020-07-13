@@ -1,7 +1,6 @@
 ---
 title: "What Happens Before Main"
 date: 2020-06-25T17:55:43+08:00
-draft: true
 ---
 
 # What happens before `main()`?

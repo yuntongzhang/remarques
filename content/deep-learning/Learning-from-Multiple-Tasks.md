@@ -1,7 +1,6 @@
 ---
 title: "Learning From Multiple Tasks"
 date: 2020-07-13T10:18:30+08:00
-draft: true
 ---
 
 # Learning from Multiple Tasks

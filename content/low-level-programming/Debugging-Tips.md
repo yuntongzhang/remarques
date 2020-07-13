@@ -1,7 +1,6 @@
 ---
 title: "Debugging Tips"
 date: 2020-06-22T10:25:12+08:00
-draft: true
 ---
 
 # Debugging Tips

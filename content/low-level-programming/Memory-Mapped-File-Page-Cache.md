@@ -1,7 +1,6 @@
 ---
 title: "Memory Mapped File Page Cache"
 date: 2020-06-21T18:35:37+08:00
-draft: true
 ---
 
 # Memory-mapped File and Page Cache

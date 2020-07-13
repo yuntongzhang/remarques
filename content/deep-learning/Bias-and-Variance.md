@@ -1,7 +1,6 @@
 ---
 title: "Bias and Variance"
 date: 2020-07-12T14:56:05+08:00
-draft: true
 ---
 
 # Bias and Variance

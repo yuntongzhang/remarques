@@ -1,7 +1,6 @@
 ---
 title: "Neural Network"
 date: 2020-07-12T11:15:52+08:00
-draft: true
 ---
 
 # Neural Network

@@ -1,7 +1,6 @@
 ---
 title: "LD_PRELOAD Trick"
 date: 2020-06-04T13:09:10+08:00
-draft: true
 ---
 
 # Dynamic Linking and LD_PRELOAD

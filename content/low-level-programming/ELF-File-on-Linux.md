@@ -1,7 +1,6 @@
 ---
 title: "ELF File on Linux"
 date: 2020-06-25T16:18:47+08:00
-draft: true
 ---
 
 # ELF File on Linux

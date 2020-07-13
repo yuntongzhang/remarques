@@ -1,7 +1,6 @@
 ---
 title: "Methods To Speed Up Training"
 date: 2020-07-12T18:26:40+08:00
-draft: true
 ---
 
 # Methods to Speed up Training
